@@ -6091,6 +6091,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4370972904279086842, guid: 8c378d8ec3d1cda4389f92d2d8703b6a, type: 3}
+      propertyPath: _highlighted
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4370972904279086845, guid: 8c378d8ec3d1cda4389f92d2d8703b6a, type: 3}
       propertyPath: _screenType
       value: 3
