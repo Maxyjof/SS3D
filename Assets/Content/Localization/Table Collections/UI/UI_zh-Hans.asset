@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_zh-Hans
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: d2a66e9e1fb4a534da0ec381c31605b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 118901084160
+    m_Localized: "\u670D\u52A1\u5668\u4FE1\u606F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123401572352
+    m_Localized: "\u804A\u5929"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127222583296
+    m_Localized: "\u73A9\u5BB6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131584659456
+    m_Localized: "\u670D\u52A1\u5668\u8BBE\u7F6E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134877188096
+    m_Localized: "\u6E38\u620F\u8BBE\u7F6E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40840714948608
+    m_Localized: "<sprite name=\"banana\"> \u8BF7\u952E\u5165\u670D\u52A1\u5668\u540D\u79F0
+      <sprite name=\"banana\">"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401212651245568
+    m_Localized: "<sprite name=\"approve\"> \u51C6\u5907"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401253960945664
+    m_Localized: "\u65C1\u89C2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401291999088640
+    m_Localized: "\u7BA1\u7406"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401583121534976
+    m_Localized: "<sprite name=\"embark\"> \u5F00\u59CB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404904863502336
+    m_Localized: "<sprite name=\"deny\"> \u53D6\u6D88\u51C6\u5907"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410219415769088
+    m_Localized: "<sprite name=\"pc\"> \u56DE\u5408\u72B6\u6001"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410593673515008
+    m_Localized: "<sprite name=\"approve\"> \u5F00\u59CB\u56DE\u5408"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410645397671936
+    m_Localized: "<sprite name=\"deny\"> \u7ED3\u675F\u56DE\u5408"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410727601836032
+    m_Localized: "\u89D2\u8272\u540D\u79F0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410784623398912
+    m_Localized: "\u73A9\u5BB6\u754C\u9762"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725627855343616
+    m_Localized: "\u663E\u793AUI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 734609462431744
+    m_Localized: "<sprite name=\"banana\"> \u7BA1\u7406\u5458"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740893582594048
+    m_Localized: "\u5DF2\u7ED3\u675F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740976793391104
+    m_Localized: "\u51C6\u5907\u4E2D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740978609524736
+    m_Localized: "\u70ED\u8EAB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740980304023552
+    m_Localized: "\u8FDB\u884C\u4E2D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740982044659712
+    m_Localized: "\u7ED3\u675F\u4E2D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741247078535168
+    m_Localized: "\u5DF2\u7ED3\u675F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175135631290712064
+    m_Localized: "\u8F93\u5165\u6587\u672C..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

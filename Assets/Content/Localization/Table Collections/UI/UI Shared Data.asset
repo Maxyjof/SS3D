@@ -111,6 +111,10 @@ MonoBehaviour:
     m_Key: Ended
     m_Metadata:
       m_Items: []
+  - m_Id: 175135631290712064
+    m_Key: Enter text...
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

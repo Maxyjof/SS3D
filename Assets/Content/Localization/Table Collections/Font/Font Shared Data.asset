@@ -45,11 +45,13 @@ MonoBehaviour:
           - fr
           - pt-BR
           - ru-RU
+          - zh-Hans
         - m_KeyId: 1670236852883456
           m_TableCodes:
           - en
           - fr
           - pt-BR
           - ru-RU
+          - zh-Hans
         m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
           PublicKeyToken=null
