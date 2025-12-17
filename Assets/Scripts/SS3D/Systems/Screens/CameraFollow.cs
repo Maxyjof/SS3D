@@ -102,7 +102,7 @@ namespace SS3D.Systems.Screens
             _controls.MouseRotation.performed += HandleMouseRotation;
             _inputSystem.ToggleActionMap(_controls, true);
 
-            AddHandle(UpdateEvent.AddListener(HandleUpdate));
+            AddHandle(LateUpdateEvent.AddListener(HandleUpdate));
         }
 
         protected override void OnDestroyed()
@@ -115,8 +115,8 @@ namespace SS3D.Systems.Screens
             _controls.MouseRotation.performed -= HandleMouseRotation;
             _inputSystem.ToggleActionMap(_controls, false);
         }
-        
-        private void HandleUpdate(ref EventContext context, in UpdateEvent updateEvent)
+
+        private void HandleUpdate(ref EventContext context, in LateUpdateEvent lateUpdateEvent)
         {
             ProcessCameraPosition();
         }
